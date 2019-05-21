@@ -1,0 +1,22 @@
+{
+    "name": "topthink/think-yaconf",
+    "description": "Yaconf support for thinkphp",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "liu21st",
+            "email": "liu21st@gmail.com"
+        }
+    ],
+    "require": {
+	   "topthink/framework": "^6.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "think\\": "src"
+        },
+        "files": [
+        ]
+    },    
+    "minimum-stability": "dev"
+}
