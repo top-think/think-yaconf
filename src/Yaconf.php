@@ -17,7 +17,7 @@ use Yaconf as Yc;
 /**
  * 配置管理类
  */
-class Yaconf
+class Yaconf extends Config
 {
     /**
      * Yaconf项目名
